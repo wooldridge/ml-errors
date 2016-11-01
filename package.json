@@ -1,0 +1,16 @@
+{
+  "name": "ml-errors",
+  "version": "1.0.0",
+  "description": "For testing Node.js errors with client API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "marklogic": "https://github.com/wooldridge/node-client-api#errors",
+    "request": "^2.76.0",
+    "request-promise": "^4.1.1"
+  }
+}
