@@ -1,4 +1,6 @@
-# ml-certauth
+# ml-errors
+
+Test errors in the Node.js Client API.
 
 ## Running
 
